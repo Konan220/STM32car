@@ -1,0 +1,24 @@
+# ===== Keil 编译生成文件 =====
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.htm
+*.map
+*.axf
+*.hex
+*.bin
+*.elf
+*.lnp
+
+# ===== Keil 工程临时配置 =====
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+
+# ===== 工具与系统临时文件 =====
+keilkill.bat
+*.log
+Thumbs.db
